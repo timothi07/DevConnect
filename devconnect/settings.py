@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     'projects.apps.ProjectsConfig',
     'users.apps.UsersConfig',
+    'django_performance_testing',
 ]
 
 MIDDLEWARE = [
