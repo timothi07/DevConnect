@@ -452,6 +452,8 @@ img {
   border-radius: 0.7rem;
 }
 
+
+
 .singleProject__developer {
   font-size: 1.8rem;
   font-weight: 500;
@@ -643,7 +645,7 @@ img {
   position: relative;
   z-index: 1;
   background: transparent;
-  height: 99vh;
+  /*height: 99vh;*/
   display: flex;
   justify-content: center;
   align-items: center;
